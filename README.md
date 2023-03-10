@@ -17,7 +17,8 @@
 <br/>
 <br/>
 - 🌱 I’m currently learning
- <br/>
+<br/>
+<br/>
 <p align-left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
  </p>
@@ -25,7 +26,8 @@
 <br/>
 <br/>
 - 💬 Language and Skills 
- <br/>
+<br/>
+<br/>
 <p align=left>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
