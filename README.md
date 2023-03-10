@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtlemana&label=Profile%20views&color=0e75b6&style=flat" alt="turtlemana" /> </p>
 
 <h4>
-- 🔭 I’m currently working on JuroInstruments
+- 🔭 I’m currently working on JuroInstruments (http://www.juroinstruments.com/)
+ <br/>
  <br/>
  Project:[RiskWeather]
  <br/>
@@ -15,7 +16,8 @@
  <h4>
 <br/>
 <br/>
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning
+ <br/>
 <p align-left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
  </p>
@@ -23,6 +25,7 @@
 <br/>
 <br/>
 - 💬 Language and Skills 
+ <br/>
 <p align=left>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
