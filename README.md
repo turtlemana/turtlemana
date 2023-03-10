@@ -28,6 +28,7 @@
 
 
 <p align="left"></p>
+  
 ---
   
  - 🌱 I’m currently learning
@@ -74,11 +75,13 @@
 <br/>
 <br/>
     
+---
+    
 <p align="left"></p>    
 - 📫 How to reach me : turtlemana@naver.com
 <p align="left"></p>
 
-
+---
 
         
 <br/>
