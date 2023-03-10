@@ -24,29 +24,7 @@
   
 <br/>
 
-
-
-<p align="left"></p>
   
-
-  
- 🌱 I’m currently learning
-<br/>
-<br/>
-<p align-left>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
- <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
- </p>
-
-  
-<p align="left">Rust, Svelte, Pytorch</p>
-  
----
-  
-<br/>
- 
- 
 
  💬 Language and Skills 
 <br/>
@@ -72,7 +50,22 @@
     
 ---    
     
+ 🌱 I’m currently learning
+<br/>
+<br/>
+<p align-left>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+ <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
+ <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+ </p>
 
+  
+<p align="left">Rust, Svelte, Pytorch</p>
+  
+---
+  
+<br/>
+  
 
     
 <br/>
