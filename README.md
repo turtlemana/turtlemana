@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Molly</h1>
-<h3 align="center">A passionate Blockchain developer from South Korea</h3>
+<h3 align="center">Blockchain Developer, interested in various stacks!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtlemana&label=Profile%20views&color=0e75b6&style=flat" alt="turtlemana" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, Solana**
 
-- 💬 Ask me about **Solidity, React, Next.js, Node.js, TypeScript, Orcale, Redis**
+- 💬 Ask me about **Solidity, React, Next.js, Node.js, TypeScript, Orcale, Redis** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 - 📫 How to reach me **turtlemana@naver.com**
 
