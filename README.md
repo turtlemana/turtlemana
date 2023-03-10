@@ -22,7 +22,6 @@
   
 <br/>
 <br/>
-
 - 💬 Language and Skills 
 <p align=left>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
