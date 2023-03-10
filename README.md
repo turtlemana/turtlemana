@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Molly</h1>
-<h3 align="center">Blockchain Developer, interested in various stacks!</h3>
+<h3 align="center">Web3 Developer, who is interested in various stacks!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtlemana&label=Profile%20views&color=0e75b6&style=flat" alt="turtlemana" /> </p>
 
@@ -14,7 +14,7 @@
  
  <h4>
 <br/>
- <br/>
+<br/>
 - 🌱 I’m currently learning 
 <p align-left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
