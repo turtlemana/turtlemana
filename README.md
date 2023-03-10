@@ -42,9 +42,6 @@
  </p>
 
   
-<br/>
-<br/>
-  
 <p align="left">Rust, Svelte, Pytorch</p>
   
 ---
