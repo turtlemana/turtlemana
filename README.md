@@ -30,7 +30,7 @@
 
 <p align="left"></p>
   
----
+
   
  🌱 I’m currently learning
 <br/>
@@ -49,7 +49,7 @@
 <br/>
  
  
---- 
+
  💬 Language and Skills 
 <br/>
 <br/>
@@ -80,7 +80,7 @@
 <br/>
 
     
----
+
     
 <p align="left"></p>    
 📫 How to reach me : turtlemana@naver.com
