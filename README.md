@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Molly</h1>
-<h3 align="center">Web3 Developer, who is interested in various stacks!</h3>
+<h1 align="left">Hey 👋, I'm Molly</h1>
+<h5 align="left">Web3 Developer, who is interested in various stacks and passionate self-taught full stack web developer and a freelance software engineer from South Korea. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtlemana&label=Profile%20views&color=0e75b6&style=flat" alt="turtlemana" /> </p>
 
