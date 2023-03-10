@@ -7,6 +7,7 @@
 
 <br/>
 
+---
 <h4>
 - 🔭 I’m currently working on JuroInstruments (http://www.juroinstruments.com/)
  <br/>
@@ -16,19 +17,21 @@
  Project-Link:(http://risk-weather-user-front-887693809.ap-northeast-2.elb.amazonaws.com/)
  <br/>
  Project-Link2:(http://www.riskweather.org/)
- 
  <h4>
+---  
 <br/>
 <br/>
+---  
 - 🌱 I’m currently learning
 <br/>
 <br/>
 <p align-left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
  </p>
-  
+---  
 <br/>
 <br/>
+---  
 - 💬 Language and Skills 
 <br/>
 <br/>
@@ -48,12 +51,13 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 </div>
-    
+---    
 <br/>
-<br/>        
-- 📫 How to reach me **turtlemana@naver.com**
-
-</h3>
+<br/>
+---    
+- 📫 How to reach me : turtlemana@naver.com
+---
+=
 
         
 <br/>
