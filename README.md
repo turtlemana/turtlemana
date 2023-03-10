@@ -10,7 +10,7 @@
 ---
 <p align="left"></p>
 <h4>
- - 🔭 I’m currently working on JuroInstruments (http://www.juroinstruments.com/)
+ 🔭 I’m currently working on JuroInstruments (http://www.juroinstruments.com/)
  <br/>
  <br/>
  Project:[RiskWeather]
@@ -31,7 +31,7 @@
   
 ---
   
- - 🌱 I’m currently learning
+ 🌱 I’m currently learning
 <br/>
 <br/>
 <p align-left>
@@ -47,7 +47,7 @@
   
 ---
   
- - 💬 Language and Skills 
+ 💬 Language and Skills 
 <br/>
 <br/>
  <div class='border'>
@@ -78,7 +78,7 @@
 ---
     
 <p align="left"></p>    
-- 📫 How to reach me : turtlemana@naver.com
+📫 How to reach me : turtlemana@naver.com
 <p align="left"></p>
 
 ---
