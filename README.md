@@ -25,7 +25,7 @@
 ---
   
 <br/>
-<br/>
+
 
 
 <p align="left"></p>
@@ -47,7 +47,7 @@
 ---
   
 <br/>
-<br/>  
+ 
  
 --- 
  💬 Language and Skills 
@@ -78,7 +78,7 @@
 
     
 <br/>
-<br/>
+
     
 ---
     
@@ -90,5 +90,4 @@
 
         
 <br/>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=turtlemana&show_icons=true&locale=en&layout=compact" alt="turtlemana" /></p>
+
