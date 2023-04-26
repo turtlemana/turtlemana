@@ -13,9 +13,9 @@
  <br/>
  Project:[RiskWeather]
  <br/>
- Project-Link:(http://risk-weather-user-front-887693809.ap-northeast-2.elb.amazonaws.com/)
+ Project-Link:(https://riskweather.org)
  <br/>
- Project-Link2:(http://www.riskweather.org/)
+
  <h4>
  
  <p align="left"></p>
