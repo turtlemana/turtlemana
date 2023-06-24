@@ -8,7 +8,7 @@
 ---
 <p align="left"></p>
 <h4>
- 🔭 I’m currently working on JuroInstruments (http://www.juroinstruments.com/)
+ 🔭 I’m currently working on JuroInstruments (http:/gne.ai/)
  <br/>
  <br/>
  Project:[RiskWeather]
