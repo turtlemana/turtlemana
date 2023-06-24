@@ -8,7 +8,7 @@
 ---
 <p align="left"></p>
 <h4>
- 🔭 I’m currently working on JuroInstruments (https:/gne.ai)
+ 🔭 I’m currently working on GNE <a href="https://gne.ai">(https:/gne.ai)</a>
  <br/>
  <br/>
  Project:[RiskWeather]
