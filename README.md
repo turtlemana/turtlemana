@@ -15,6 +15,10 @@
  <br/>
  Project-Link:(https://riskweather.io)
  <br/>
+ Project:[Wide Eyes (AML watchlist)]
+ <br/>
+ Project-Link:(https://wideeyes.co.kr)
+ <br/>
 
  <h4>
  
