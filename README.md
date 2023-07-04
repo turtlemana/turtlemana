@@ -8,16 +8,19 @@
 ---
 <p align="left"></p>
 <h4>
- 🔭 I’m currently working on GNE <a href="https://gne.ai">(https:/gne.ai)</a>
+ 🔭 I’m currently working on  <a href="https://gne.ai">GNE</a>
  <br/>
- <br/>
- Project:[RiskWeather]
- <br/>
+ <h1>My Projects</h1>
+<h3>RiskWeather</h3>
  Project-Link:(https://riskweather.io)
  <br/>
- Project:[Wide Eyes (AML watchlist)]
  <br/>
+<h3>Wide Eyes (AML watchlist)</h3>
  Project-Link:(https://wideeyes.co.kr)
+<h5> *need account to access, if you are interested in AML watchlist, please contact me -> turtlemana@naver.com</h5>
+ <br/>
+ <h3>GNE Landing page</h3>
+ Project-Link:(https://gne.ai)
  <br/>
 
  <h4>
