@@ -5,6 +5,8 @@
  
 <h5 align="left"> Passionate self-taught Web Developer from South Korea, who is interested in various stacks. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h5>
 
+<h4>Visit my blog : https://velog.io/@turtlemana  </h4>
+
 ---
 <p align="left"></p>
 <h4>
