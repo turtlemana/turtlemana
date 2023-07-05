@@ -13,14 +13,20 @@
  <h1>My Projects</h1>
 <h3>RiskWeather</h3>
  Project-Link:(https://riskweather.io)
+   <br/>
+ Github-Link:(https://github.com/turtlemana/Riskweather)
  <br/>
  <br/>
 <h3>Wide Eyes (AML watchlist)</h3>
  Project-Link:(https://wideeyes.co.kr)
+ <br/>
+ Github-Link:(https://github.com/turtlemana/WideEyes-AML-watchlist)
 <h5> *need account to access, if you are interested in AML watchlist, please contact me -> turtlemana@naver.com</h5>
  <br/>
  <h3>GNE Landing page</h3>
  Project-Link:(https://gne.ai)
+  <br/>
+ Github-Link:(https://github.com/turtlemana/GNE_Landing)
  <br/>
 
  <h4>
