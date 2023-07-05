@@ -13,22 +13,29 @@
  🔭 I’m currently working on  <a href="https://gne.ai">GNE</a>
  <br/>
  <h1>My Projects</h1>
-<h3>RiskWeather</h3>
- Project-Link:(https://riskweather.io)
+<h3>1. RiskWeather</h3>
+<img width="150" height="150"  src="https://github.com/turtlemana/GNE_Landing/assets/75458741/1a600748-9c24-4d87-8ebf-4f4a65fda318"/>
+ <br/>
+ [Project-Link]:(https://riskweather.io)
    <br/>
- Github-Link:(https://github.com/turtlemana/Riskweather)
+ [Github-Link]:(https://github.com/turtlemana/Riskweather)
  <br/>
  <br/>
-<h3>Wide Eyes (AML watchlist)</h3>
- Project-Link:(https://wideeyes.co.kr)
+<h3>2. Wide Eyes (AML watchlist)</h3>
+<img width="250" height="100"  src="https://github.com/turtlemana/GNE_Landing/assets/75458741/fdc04997-792c-4b38-b2d7-39376a0266d6"/>
  <br/>
- Github-Link:(https://github.com/turtlemana/WideEyes-AML-watchlist)
+ [Project-Link]:(https://wideeyes.co.kr)
+ <br/>
+[Github-Link]:(https://github.com/turtlemana/WideEyes-AML-watchlist)
 <h5> *need account to access, if you are interested in AML watchlist, please contact me -> turtlemana@naver.com</h5>
  <br/>
- <h3>GNE Landing page</h3>
- Project-Link:(https://gne.ai)
+ <br/>
+<h3>3. GNE Landing </h3>
+<img width="250" height="100"  src="https://github.com/turtlemana/GNE_Landing/assets/75458741/19aaddaf-7979-4807-afea-addd1533d636"/>
+ <br/>
+ [Project-Link]:(https://gne.ai)
   <br/>
- Github-Link:(https://github.com/turtlemana/GNE_Landing)
+ [Github-Link]:(https://github.com/turtlemana/GNE_Landing)
  <br/>
 
  <h4>
